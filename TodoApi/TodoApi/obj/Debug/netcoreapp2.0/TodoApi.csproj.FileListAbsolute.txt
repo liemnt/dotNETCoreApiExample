@@ -1,0 +1,11 @@
+D:\HK2 2017-2018\dot net\dotNETCoreApiExample\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+D:\HK2 2017-2018\dot net\dotNETCoreApiExample\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+D:\HK2 2017-2018\dot net\dotNETCoreApiExample\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+D:\HK2 2017-2018\dot net\dotNETCoreApiExample\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+D:\HK2 2017-2018\dot net\dotNETCoreApiExample\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+D:\HK2 2017-2018\dot net\dotNETCoreApiExample\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojResolveAssemblyReference.cache
+D:\HK2 2017-2018\dot net\dotNETCoreApiExample\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+D:\HK2 2017-2018\dot net\dotNETCoreApiExample\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+D:\HK2 2017-2018\dot net\dotNETCoreApiExample\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+D:\HK2 2017-2018\dot net\dotNETCoreApiExample\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+D:\HK2 2017-2018\dot net\dotNETCoreApiExample\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
